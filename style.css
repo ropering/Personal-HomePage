@@ -1,0 +1,54 @@
+*{
+    text-decoration: none;
+}
+.slogan {
+    height: 70px;
+    border-bottom: 1px solid black;
+    display: flex; 
+    align-items: center;
+    margin-left: 10px;
+}
+.title {
+    margin: 100px;
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+.main {
+    width: 1000px;
+    margin: 0 auto;
+}
+.list {
+    display: flex;
+}
+.certification {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 20px;
+    border-radius: 12px;
+    text-align: center;
+}
+.title1 {
+    font-size: 1.1rem;
+    background: rgba(0,0,0,.03);
+    height: 53px;
+    line-height: 53px;
+    border-bottom: 1px solid black
+}
+.button-design {
+    padding: 0.2rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    color: white;
+    background-image: none;
+    border-color: #007bff;
+    margin-top: 10px;
+}
+.button-design-active {
+    background-color: #007bff;
+    color: white;
+    display: block;
+    margin-left: 51px;
+}
