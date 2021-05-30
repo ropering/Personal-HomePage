@@ -18,3 +18,9 @@
 
 1. 화면 오른쪽 Environments의 github-pages 클릭 (로켓 아이콘)
 2. View deployment
+
+![image](https://user-images.githubusercontent.com/50795314/120104315-d3ed6780-c18e-11eb-9790-7236860d790e.png)
+
+![image](https://user-images.githubusercontent.com/50795314/120104318-d6e85800-c18e-11eb-8d59-4a80273bf7ea.png)
+
+![image](https://user-images.githubusercontent.com/50795314/120104320-d780ee80-c18e-11eb-8916-d41cb949e46b.png)
